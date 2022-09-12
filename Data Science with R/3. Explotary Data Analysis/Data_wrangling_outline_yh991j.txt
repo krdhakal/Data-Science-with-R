@@ -1,0 +1,14 @@
+
+1) overall perspective of dataset (summary, structure, head, tail)
+2) Slicing and dicing of dataset (subset, square bracket method)
+3) character and categorical columns (as.factor)
+4) Replacement of any cell entry in your data (levels - categorical, which- numerical)
+5) Missing value concept (ignore the value is.na, imputation - mean/median/mode/value)
+6) table command concept
+7) Text maniputation - gsub command
+8) Generation of new column in dataframe and deleting the column
+9) Split of datasets for ML
+10) Data transformation/normalization
+11) time series
+12) visualizations
+

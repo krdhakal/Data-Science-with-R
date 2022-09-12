@@ -1,0 +1,325 @@
+Good morning and good evening. Welcome to Lenovo's Earnings Webcast. Thanks to everyone for joining us. This is Jenny Lai Vice President of Investor Relations.
+
+Before we start, let me introduce our management team joining the call today. We have Lenovo's Chairman and CEO, Mr. Yang Yuanqing; Corporate President and COO, Mr. Gianfranco Lanci; Group CFO, Mr. Wong Wai Ming; President of Data Center Group, Mr. Kirk Skaugen.
+
+We will begin with a presentation shortly. And after that, we will open the call for questions.
+
+Without further due, let me turn the call over to Yuanqing. Yuanqing, please.
+
+Yang Yuanqing
+
+Hello, everyone. Thank you for joining us. I'm pleased to discuss yet another record breaking quarter. Our innovative product portfolio and our operational excellence drove growth across all business and our transformation in investments are paying off.
+
+For the second straight quarter we achieve the hyper growth in both revenue and the profit. Our corporate revenue grow over 22% year-on-year reaching $17.2 billion. This new record is $207 billion higher than the previous one we achieve the just last quarter. In fact, profit achieved the even stronger growth with pre-tax income and the net income both over 50% year-on-year reaching new records. Pre-tax income reached the $591 million and the net income reached the $395 million.
+
+All of our core business delivered both the topline and the bottomline year-on-year growth. Our record performance starting our device growth, where PC and the smart device business delivered another historical quarter. Our innovative product portfolio adapted quickly to meet the customers new needs in work, learn and the play from home and captured the strong demand.
+
+Our revenue grow over 26% while pre-tax income improved 35% year-on-year and the industry-leading profitability further improved to 6.6% all achieved a new records. We extended our number one position in PCs, growing PC volume to historical market share of 205.3%. Our focus in high growth and the premier segments continue to drive a double even triple digit of growth in both revenue and the volume.
+
+We saw strong performance across all geographies in North America. We achieved almost the 60% volume growth year-on-year. In EMEA, we become number one in PC for the first time. In Asia-Pacific profitability reached our new record. In China we also achieved over 30% year-on-year achievement of growth. For several quarters I have predicted that the total PC shipment we are likely reach to 300 million units in 2021. Many people thought it's too optimistic, but the latest ITC data has confirmed that the total PC market last year has indeed has surpassed the 300 million units driven by strong Q4.
+
+Obviously this proves our view that work, study; play from home has become a new lifestyle. So the information consumption, upgrade we are drive, one device per person trend and expand from just the smart phones to household include the PCs, tablets and it will continue to drive the demand of PCs, tablets and smart devices for the long term.
+
+So looking forward, we will continue to fulfill customers and new needs with innovative products and the leverage our operational excellence to capture the strong demand. Meanwhile our mobile business delivered the double digital revenue growth year-on-year and not only resume the profitability since the pandemic, but also achieved a record profit since the Motorola acquisition.
+
+In Latin America and North America our stronghold remains solid. Across our expansion markets in Europe and Asia we had a strong double under triple digit growth. Thanks to expanded carrier relationships and the stronger product mix. Looking forward, we will continue to drive growth with our strong 5G product portfolio. Our data center group achieved the record revenue of over $1.6 billion while improving profitability by almost a point year-on-year. Both our cloud service provider and the enterprise SMB segments delivered the year-on-year growth at a premier to the market. Enterprise SMB reached the $1 billion in revenue the highest amount in over three years.
+
+In storage, we had the recorded revenue and the outgrow the market by 11 points. We also had record revenue in software defined infrastructure and services and we extended our number one position in top 500 super computers to 182 systems. Our two-scale private cloud infrastructure as a service combined with SAP's HANA Enterprise Cloud has been well received and is generating a strong pipeline of the [Indiscernible].
+
+Lenovo is a unique player providing a full range of IT infrastructure from on-premise data center, private cloud, and private cloud infrastructure as a service to public cloud infrastructure. Looking forward with our strong in-house design and manufacturing capabilities we will capture the growing hybrid cloud and infrastructure demand and continue to outgrow the market while improving profitability.
+
+Our service-led intelligent transformation continued to make a strong progress as total software and service revenue grew almost 36% to a new record of $1.4 billion over 8% of total global revenue. Our attached services, manager services and the solution services achieve the year-on-year growth of 26%, 73% and 49% respectively. Devices as a services total contract value achieved the high double digit growth of 74% year-on-year. In addition our e-commerce revenue grows 45% year-on-year and continued to set the new records.
+
+Looking forward we will further drive service level intelligent transformation through further driving growth in managed service particularly device as a service and leveraging our experience and capabilities to build a solution focusing on smart manufacturing, smart education, smart health care and more. Clearly, 2020 was a challenging year that brought remarkable changes to our world. Thanks to our continued innovation, excellent operation and a robust resilience Lenovo quickly responded to the changing market and delivered excellent results.
+
+As we prepare for the new fiscal year ahead we will further align our organization with our strategy and sharpen our execution. Effective April 1, 2021, we will establish a new business group SSG solutions and services group by integrating all the existing services and solutions teams across the company into a dedicated organization. Thus the three business groups could be fully responsible for the execution of each S in the 3S strategy.
+
+IDG, intelligent device group will be led by [Indiscernible] Senior Vice President and the current president of PCSD in EMEA and Latin America to focus on smart IOT. ISG infrastructure solution group renamed from data center group will continue to be led by Kirk Skaugen, Executive Vice President and President of Data Center Group and drive smart infrastructure and the newly formed SSG, solutions and service group will be led by [Indiscernible], Senior Vice President and the current President of PCSD in Asia-Pacific will be responsible for growing our business in smart vertical and services.
+
+At the same time in order to further improve synergies among business groups and build a unified customer-centric interface we will integrate the existing geo model structure into two sales organizations China geo to be led by Liu Jing, Executive Vice President and current President of IFDG in China. And the international sales organization to be led by Matt [Indiscernible], Senior Vice President and current President of PCSD in North America. Covering Asia-Pacific, EMEA, North America and the Latin America geos.
+
+The two sales organizations will assume the same sales function system and the driver integrated the go-to-market strategy across all business groups in their respective locations. They will face our customers and partners unified as one Lenovo.
+
+As a result, I believe we will be able to respond more quickly to customer needs and market demands and further unlock the company's true value. Here I would also like to share another news. Mr. [Indiscernible] President and Chief Operating officer of Lenovo will be retiring from the company in September 2021. He has been instrumental in our success growing Lenovo into the undisputed number one in global PC market in the past decade. His incredible legacy has led much of the foundation for our future growth. During the transition period to September he will continue to fulfill his responsibilities while ensuring a smooth transition for the future.
+
+In 2021, with our planned issuing of Chinese depository receipts on Shanghai Stock Exchange we will also further invest in technology and innovation driving intelligent transformation across industries and create sustainable growth for our company.
+
+Thank you. Now let me turn it over to our CFO, Wai Ming. Wai Ming please.
+
+Wai Ming
+
+Thank you Yuanqing. I will now take you through Lenovo's financial and operational performance in 3Q fiscal year 2021. Next slide please. This quarter the group again set several performing records with delivered sales growth across geographies and businesses robust margin all time high group revenue and profits and strong cash flow generation.
+
+Our service led transformation continue to accelerate and we further enhance our service portfolio to build new growth catalysts. Our group revenue increased 22% year-on-year to 17.2 billion. PCSD and DCG achieved record sales while MBG grew its revenue at a double-digit rate. The group's growth margin improved 10 basis point year-on-year and our E to R ratio was reduced by 0.5 percentage point to 12.1% a result of our operational excellence and optimization in sales mix. Software and services and e-commerce business grew their revenue strongly by 36% and 45% year-on-year respectively.
+
+The high margin rates continue to support our profit trajectory. Our net income grew 53% to an all-time high of 395 million. Record-breaking PCSD profit and consistent private improvement in MBG and DCG helped in setting this new milestone. The basic earnings per share was $3.31 up 53% from the previous year.
+
+Next slide please. In Q3 our cash flow generated from operation improved by 1.425 billion year-on-year to 1.963 billion. Our net debt level was reduced by 755 million year-on-year. The supply dynamics remained a challenge for the sector. Our infantry days increased four days year-on-year as we continue to secure critical paths to fulfill strong future demand. Sequentially infantry days lower by five days quarter-on-quarter thanks to strong demand. ER days also improve eight days year-on-year thanks to improved efficiency in our factoring program.
+
+Next slide please. PCSD achieved all-time high revenue and profits. The sector demand was strong and above expectation as supported by lifestyle changes including one PC per person trend and rising usage intensity leveraging our operational excellence, product innovation and quick time to market capabilities to address new demand tailwinds. PCSD revenue grew by 27% year-on-year to $14 billion in the quarter.
+
+Our unique hybrid manufacturing strategy allow us to have greater flexibility and more supply to fulfill strong sector demand. We boosted our share gain to capture 25.3% of global market share and expanded our market share lead to 4.2 points ahead of the number two player. We also became number one in EMEA for the first time.
+
+PCSD further scaled up its higher margin and high growth segments to drive expansion of pre-tax margin by more than 40 basis points to a record high of 6.6%. The lights, gaming PC, e-commerce and software and services business saw double-digit growth and market share gain. Pre- tax profit increased by 35% year-on-year to 925 million.
+
+Next slide please. MBG revenue grew 10% year-on-year thanks to the team's continued effort in expanding portfolio and carrier ranging. With launch of new 5G models and gaming phones the group has improved its average selling price by 19% year-on-year and such product mix improvement help the business to resume profitability. [Indiscernible] $10 million and could have improved further if it wasn't for the higher freight cost and industry-wide component shortages. The revenue contribution from 5G models now represent more than 10% of MBG revenue significantly growing from the previous quarter. The business will continue to execute its 5G for all strategy to make 5G more accessible in all prices spectrum while continue to make important carrier penetration to drive profitable growth.
+
+Next slide please. In the third quarter our DCG achieved record revenue driven by solid growth across both CSP and ESMB segments. The CSP business continued to capitalize on cloud demand and achieve double digit revenue growth across regions except for China where orders with better profitability were given higher regional priority. ESMB business delivered in the highest revenue in three years thanks to its record performance in software-defined infrastructure, storage, high performance computing and services. These high margin products with higher revenue mix resulted a better profitability profile.
+
+The DCG business improved its operation result by 14 million year-on-year to a pre-tax loss of 33 million. The group's efforts in product diversification and development of alternative platforms, the availability of highland system as well as storage solution have started to pay off. Given our recent design wins for profitable projects and advanced configuration DCG is on track to drive long-term top-line growth and profitability expansion.
+
+Next slide please. Our teams are executing well on the software and services led transformation accelerating our pace further to transitioning into a service model and expanding our service scope. The software and services business carries the highest margin profile among all products reported invoice revenue and deferred revenue growth of 36% and 30% year-on-year respectively, representing to around 8.1% of the group's revenue.
+
+Among the three key business elements managed service including devices surface commonly called [DAS] enjoys 73% growth because of strong progress in contract winds globally. Complex solution also remains strong and posted 49% growth from all verticals. Our test surface continue to grow steadily up 26%.
+
+Next slide please. Looking forward the group will continue to leverage its core competence in driving earning growth and business transformation by taking advantage of tailwind opportunities including e-learning, work from home, play from home, cloud infrastructure and 5G.
+
+We remain optimistic that these long-term structural trends can expand the addressable market for PCSD and cloud infrastructure as well as accelerate development of 5G services. Our PCSD business will leverage our operational excellence and global franchise to increase supply to meet strong segment demand and drive consistent premium to market revenue growth through investment in the high growth and premium segments. We will continue to build capability to drive sales grow in software and services business and expand e-commerce based on our well-established infrastructure. For MBG business the group will further push product innovation and necessary 5G smartphone launches to strengthen the stronghold markets.
+
+MBG will strengthen its competitiveness in target market grow at a premium to the sector and improve long-term profitability. For the ECG business the group aims to deliver premium to market growth and enhance profitability. For a cloud service provider business the group recent design wins will attract new customers and expand its share with existing accounts by leveraging its unique strength in the global supply chain and worldwide reach and expanding its portfolio with advanced configuration and storage platforms.
+
+Lastly in the enterprise and SMB segment the group will grow its high margin surface attach rate, up sell premium surface and expand its hybrid cloud solutions to drive profit improvement. On January 20 Lenovo announced a proposal to list on Shanghai Stock Exchange by way issuance of Chinese depository receipts. The company plans to use the process for R&D in new technologies and products to address the high growth new IT infrastructure opportunities in one of the fast growing economies in the world in the future. Together with the new organization structure in the new fiscal year which enable us to further focus on our strategy execution and respond quicker to customer needs we are confident in our ability to drive sustainable and higher growth in our business and expand profitability and to deliver better return to our shareholders.
+
+Thank you. Now we can take your questions.
+
+Unidentified Company Representative
+
+Thank you Wai Ming. Now we are open online for questions and this session will be in English only. Please be reminded to limit yourself to one questions. At this time operator please now I'll turn it over to you please give us.
+
+Question-and-Answer Session
+
+Operator
+
+Ladies and gentlemen we will now begin the question and answer session. [Operator Instructions] Your first question comes from Sebastian Hou from CLS. Your line is now open.
+
+Sebastian Hou
+
+Good afternoon. Thanks for taking my questions. I have two. The first one is on the PCSD business. So congratulations on the continued improve on the PCI margin in PCSD business and I wondered how much of it was due to the rising service contribution and also how do we see the margin trend going to firsthand this year considering there is a lot of the components have the price hack due to supply shortage and pricing is to further increase in the first half this year's and how would the margin be affected? And the second question will be on data center business that the margin also improved nicely. If I simply compare the margin you have compared to for example two quarters ago or four quarters ago that you have a similar revenue scale the margin has improved. So can we view it as a structural improvement on the overall data center business and how would you project the margin equivalent direction going forward? Thank you.
+
+Yang Yuanqing
+
+Thank you Sebastian. So for the first question I would like to ask my great partner and friend Gianfranco to answer this question although I want to congratulate him on his retirement this coming September. Unfortunately he cannot start his retirement life yet. He will still be with us for two more earnings cycles as our COO and ensure small transition. So Gianfranco could you answer this first question? Then Kirk will answer the second question.
+
+Gianfranco Lanci
+
+No. Yes. Thanks. Talking about the margin contribution for sure the service growth I think there are two elements when I look at the margin improvement and one is for sure coming from the service growth. The other one if you look at our numbers it's also coming from a better in the sense that despite the growth of Chromebook despite we have seen AUR going up in consumer and also in SMB and a little bit in e-commercial due to I would say a different profile of the demand from customers because we have seen a very strong growth on gaming and a very strong growth on Thin & Light we are back to grow on workstation because we have got a very good premium to market this growing segment. So I think we have this we have been growing service 30% to 40% during the last I don't remember how many quarters but many quarters and of course that there is a good contribution for service but I would say the major contribution is really coming from a different profile of the business and the better average selling price.
+
+Coming to components I think that it is true there are some components going up DRAM but on the other side the SSD which is a big portion of our product cost is still going down. So I really don't see for the next six to nine months any major impacts coming from components going up. In my opinion when I look at the PC industry today the only limitation but it's not really a margin limitation it's a growth limitation can only come or is coming only from shortage between IT and in display -- without last quarter results this limitation could be and I'm not dreaming could be even better. So we have been able to manage the supply issue very, very well if we look at the results but we can say that it could be even better without any limitation on the supply. Thank you.
+
+Yang Yuanqing
+
+So Kirk could you please answer the second question?
+
+Kirk Skaugen
+
+Sure. Thanks Sebastian. Yes I think you're correct. We're seeing sustained improved margins in the business and I think it's driven by a number of factors consistent with our strategy that remains strong. The first is in the cloud service provider market we're diversifying from servers into storage and winning multiple multi-hundred million dollar deals in storage. We're expanding beyond Intel architecture into AMD solutions and we're now bringing our motherboard development on these new designs in-house. So we're getting the profit not just on the system integration but also on the motherboard design and manufacturing and we've also talked about significantly expanding our own in-house manufacturing with new factories coming online in Monterey and Hungary to support our customer base.
+
+So that's making the CSP the cloud service provider business more profitable. On the enterprise SMB we said we just had our highest quarter in three years despite being in the middle of COVID. That's really being driven by not just efficiencies across the company but by our 4S strategy where we talked about higher profitability. So in storage IDC just published their latest storage numbers we were at 11 point premium to market. We became number two now in entry storage up from number five. So we crossed the number three and number four player and we're just three points away from being number one in entry storage worldwide. In software we have higher attach rates. In software defined IDC just showed in hybrid cloud we grew 58% year-on-year which was a 45% premium to market and then lastly on services we're tracking a double-digit growth year-on-year and our point-of-sale attach rates.
+
+We're expanding our true scale as a service offerings and we're delivering more professional services for example almost every HPC install where we had a record we do data center design around our Neptune warm water cooling and we also do data center design for some of the largest cloud players in the world not just providing them servers and storage but actually designing the whole data center for them. So those are things just some of the examples.
+
+Hopefully they give you confidence that this is a sustained growth driven by in-house design and manufacturing as well as 4S focus that's improving our profitability and I don't see that changing in the future. I think these trends we feel confident for the future. Thank you.
+
+Yang Yuanqing
+
+Thank you Kirk. Next question please.
+
+Jenny Lai
+
+Thank you. Operator we are ready for the next question please.
+
+Operator
+
+Your next question is from [Albert Holm] from JP Morgan. Please go ahead.
+
+Unidentified Analyst
+
+Hi I'm management team thanks for taking my question and congrats on the fantastic results. My first question is regarding PC given the very high supply demand dynamics would you consider raising the retail price to reflect the under supply and could we expect for PCSD market improvement in the coming quarters and could also give some updates on the channel inventory level?
+
+My second question would be you mentioned some further investment in the service segment using the process from PDR, could you give us some great example of how are you going to use that and any milestone of service segment for example when would you expect the service from the revenue to reach like 15% of total group revenue? Thank you.
+
+Yang Yuanqing
+
+So, the first question is for you.
+
+A – Unidentified Company Representative
+
+Coming to let's say I answer first on the channel inventory because this is probably a very interesting question. I think when I look at around the world to frankly speak I don't think from U.S. to Europe to China to Asia-Pacific I think our channel inventory has never been so low and in some cases during the last quarter we were down to two to three weeks.
+
+Usually it's running and the normal channel inventory is running around the six weeks between so we were really down to very-very low level and is still more or less at that level. So the China inventory unfortunately is too low as I said with no limitation on supply the result of last quarter could be even better than what you see in terms of reporting. Are we going to as I said demand is still very-very good?
+
+I would say we have not seen any declining demand. There is probably even building up even stronger considering that Q1 is always much lower than Q4. It's even stronger than in Q4 and we are doing some adjustment on the price, but I think it's really not rising because shortage or because tight supply. It's mainly because as I said before we see in terms of demand a very different profile than in the past with the gaming graphic card, better memory, better hard disk, better SSD and bigger SSD.
+
+And in terms of margin trend I see very stable margin trend for this quarter and also for the next couple of quarters. So I think we will continue to see a very good growth in terms of CA and revenue and with the stable state or slightly better margin. Thank you.
+
+Yang Yuanqing
+
+So I want to echo to the PC, tablet demand will be still strong for this coming year. As I always said to you so this pandemic is driving the people's behavior change. Now work from home started from pulling -- from home have become the new normal. It drives the information consumption upgrade from one phone per unit to one PC or and tablet per person.
+
+So definitely it will drive the strong demand for PC and the tablet. Also today the people spend more time on their PC and the tablet so probably that will drive the faster, the replacement cycle in the future. So that we believe that the demand for PC and the tablet could be stable. So actually I have predicted the PC Time would reach 300 million this year but actually so last year we have already reached 300 million.
+
+So we believe this year so the demand will continue to grow by 5% to 10% so that's our focus. So actually today's the supply shortage is driven by the strong demand. So don't misunderstand. So supply shortage will another stoppers to further go. So a second question, could we mean answer the second question regarding of the CDR?
+
+Wai Ming
+
+Yes sorry. I think we obviously I think announced the CDR proposal I think next time next thing will happen is tomorrow we have a shareholders meeting I think including the application and from then onwards I think we will get our prospectus I think ready and then going through the necessary process, the application process and hopefully that it will I think happen within I think the next few months.
+
+Yang Yuanqing
+
+So the question is about the how we invest.
+
+Wai Ming
+
+The investment sorry. I forgot that. Yes I think investment we are actually working primarily investing in technology related I think projects and investment. I think at the moment we are actually working out the details and as we will actually put in more details of where we invest I think in this new technology I think particularly in China I think the new idea infrastructure that offers a lot growth opportunity we will have that disclosed I think much more detail in the prospectus while we are actually in the process of preparing the document and waiting to reveal the document by the regulators will be better just to give you a high-level description of where we invest but we will actually have those in more detail as and when we publish the perspective.
+
+Yang Yuanqing
+
+Thank you Wai Ming. Next question.
+
+Jenny Lai
+
+Yes. Operator we are ready for the next question please.
+
+Operator
+
+Our next question is from Howard Kao from Morgan Stanley. Please go ahead.
+
+Howard Kao
+
+Hi guys congratulations on a record quarter. So I have two questions. The first question is a follow-on on the PCSD operating profit margin. I understand you guys doing a quarter saw higher logistics costs. I was just wondering how much did that impact your margins and when can we expect these higher legislative costs to normalize and the second question is on inventory.
+
+I noticed you guys had higher finished goods inventory both sequentially as well as year-on-year in the December quarter. I guess my understanding or I thought because of the strong demand you guys would actually have lower finished goods inventory. I am just wondering what why the finished goods inventory was up during the December quarter.
+
+Gianfranco Lanci
+
+Yes. I could. Coming to the logistic cost when we see the impact is probably in the end of in terms of impact this is -- it is not a big impact maybe 1.2% because such a big logistic cost going up but this is not in Q4. This is already after I would say Q1 last year. So we have logistic cost going up in Q2, going up in Q3 but I think in Q4 we have not again seen an increase compared to the previous two quarters and we expect that slowly they will go down as soon as back to normal in terms of pandemic and with back to normal in terms of travel and so on.
+
+But when I look at the impact I think that we are also being able to manage very well in terms of when you see 20 million -21 million -23 million units per quarter despite the cost increase you can see manage to get good discount I would say. It's really how you manage logistic in terms of both price and so on. But we are talking about a very low number in terms of inventory,
+
+China inventory is extremely low in terms of three to four week today. We have been building up on the other side in this situation when there is any opportunities to buy ahead we buy ahead any kind of things but it's display, IC because we want to make sure that one we can satisfy demand.
+
+Second we can keep the factory up and running. So when I look at the inventory I think it's mainly coming from parts components not only but with this kind of situation when some performance it's very difficult to forecast in terms of delivery. So usually try to beat up with the other components in order to make sure that customers you get the parts, you don't have that problem on the normal supply. So we have been building up more inventory just to make sure that we have enough components in the factory or in our ODM supplier that as soon as we get what is the shortage we can produce finished goods, there is also another consideration is that we have when we look at our finished goods inventory a lot of this is in transit. It is increasing both.
+
+It is increasing reaching our customers for Q1 for this quarter demand. And we also beat up some, we have some additional finished goods because mainly for retail in U.S. and in some cases also in Europe. You need to deliver within January and February. In February we should not forget it is Chinese New Year. So production will be a little bit impacted, not too much maybe two, three, four days but with this kind of situation in terms of demand and supply even two or three days of factory shut down for Chinese New Year can be a problem. So it is also the other reason you see some finished goods probably for -- already in terms of finished goods because -- reaching our guidance. Thanks.
+
+Yang Yuanqing
+
+Thank you Gianfranco. So next question please.
+
+Operator
+
+[Operator Instructions] Your next question is from [Indiscernible]. Please go ahead.
+
+Unidentified Analyst
+
+Hi, good afternoon management. Thanks for the presentation. Questions on the --
+
+Yang Yuanqing
+
+So your voice is broken. Could you please repeat your question?
+
+Unidentified Analyst
+
+Is it better?
+
+Yang Yuanqing
+
+Yes.
+
+Unidentified Analyst
+
+Right. Okay. I just have a question on the restructuring to the three new groups. How different should we think about this three versus the current structure in terms of the performance indicators or would it still be focusing on PTI margins and just how different should we look at it this? Is the current structure? Thanks.
+
+Yang Yuanqing
+
+So we will do this retraction. The first reason is Gianfranco will retire in September. So we need to make some change on our organization and leadership. The second reason is definitely we want to drive our organization to be aligned with our strategy. So we have a service led 3S strategy. 3S means smart IoT, smart infrastructure and smart vertical. So with a new organization so our IDG intelligent device group will address the smart IoT direction. Then our new named infrastructure solution group -- is the DCG will drive the smart infrastructure and definitely so the new establishment smart newly established the solution and the service group SSG will drive the solution and the service direction. So that's a very crucial for our intelligent transformation.
+
+So this has been the group we are integrated all the service oriented teams in our group to drive attach the service, manage the service, device as a service, solution and smart vertical, etc. etc. So definitely smart vertical we will be focusing on smart manufacturing, smart retails, smart city, smart education, etc. So in the past couple of quarters we have seen very good progress in our service led transformation. So last quarter our software and the service business grow by 36% year-on-year. So with a new organization so we definitely believe we will keep the strong growth in the service area. So definitely our service business has a much better margin than the average in our company. So that's why we think this is the culture for the Lenovo transformation for our future strategy, our strategy execution.
+
+Unidentified Analyst
+
+Okay. Thank you very much.
+
+Yang Yuanqing
+
+Thank you.
+
+Operator
+
+[Operator Instructions] Your next question is from Chris [Indiscernible] International. Please go ahead.
+
+Unidentified Analyst
+
+Hi, thanks for taking my questions and congrats again on the strong results. I have a question on PC. Two questions total but first questions on PC. I would like to know what is the enterprise statement well how is the enterprise segment looking this year versus consumer.
+
+Historically we see enterprise margin on the PC side higher than consumer announced it seems like it may be changing. So my question my first question is through enterprise demand and also like enterprise versus consumer PC margin.
+
+My second question is on your CDR and more on the longer term outlook as we invest more new technologies and innovation how would that impact our offering expense and how would that impact our ICG profit margin? Thank you.
+
+Yang Yuanqing
+
+Okay. So still Gianfranco.
+
+Gianfranco Lanci
+
+Yes. Thank you for the question. When we look at the trend for sure during pandemic with the pandemic when I look at talking about calendar year Q2 and Q3 we have seen a slow down right really slow down on demand when but a big increase on consumer and partially SMB. So it's not only consumer with this very strong demand it's also it was also SMB when I look at Q2 and Q3 calendar year. Q4 we start to see some signal of demand coming back much better than the previous six months and when I look at this quarter I think demand is really back on enterprise, notebook, desktop, workstation and I would say all the key segments or product segment in the enterprise and again I think even on enterprise during the last quarter in this quarter the major concern in terms of is supply and it's really how we can satisfy the demand.
+
+So enterprises I think we see a rebound during the last let's say three to four months between November, December and also now January and February and back order is really building up nicely. The margin when we talk about margin I think and when you look at our three-segmented margin on enterprise and also margin on SMB they continue to be very-very strong.
+
+The real difference is that but also marginal consumer is becoming very good but is still not at the same level as SMB and commercial but before there was a big gap and I would say the marginal consumer is reducing the gap against SMB and enterprise but still we see one enterprise with a better margin than consumer and more or less at the same level as SMB. Thanks.
+
+Yang Yuanqing
+
+So I want to emphasize what Gianfranco just said. So for the first time we see the enterprise or commercial demand increase. So last quarter so actually the commercial PC increased by 26% in the market. So definitely Lenovo have around 6 points premiere to the market. So that's a very good symptom. The economy the global economy is recovering. So that has less impact than previous quarters. Meanwhile the consumer demand is still strong. So that's the complete landscape for you to consider.
+
+CDR. So could you please to answer the CDR question.
+
+Wai Ming
+
+Okay. Yes I think on the CDR while I said in the earlier I think question I won't be able to I think tell you exactly which project or we are testing but generally we are raising the proceeds investing in technology which obviously either when completed will either improve our operating efficiency or will form part of the our services or solutions that we offer to our customers. If you look at the profile of our business solutions and services normally combine on much higher gross margin than our existing devices business. So in that net I think after we actually raise the capital to invest in areas we are very-very confident that and not only will help us to expand further our top line of business but at the same time we'll be able to improve the margin profile of our business.
+
+Yang Yuanqing
+
+Next question please.
+
+Operator
+
+Your next question comes from [Indiscernible] Securities. Please go ahead.
+
+Unidentified Analyst
+
+Hi management. Thanks for taking my question. I have two questions regarding SSG group, how do you see the growth driver the biggest growth driver for the SSG group in the next few years and also can you give us up maybe the employee number and the breakdown of these employees by functions of this group such as how many employees are from the IND function and the marketing function, etc. Thank you. That's my first question.
+
+Yang Yuanqing
+
+Yes. So even I myself don't have that number so far. So we will integrated all the service oriented teams together but by the April 1 so it will become more clear but the content or the scope of the business is very clear. So they will try to attach the service, manage the service including a device as a service and a solution service for the solution service. So we are particularly focusing on smarter vertical solutions like smarter manufacturing, smarter education, smarter retail, and smarter city. So I definitely believe so in all these areas we can drive the hyper growth.
+
+So for the attached survey so although it's close to the -- but now Lenovo's attached rate is still much lower than the industry average. So we still have a lot of room to improve definitely manager service will be the trend. So in the past quarter this business grows by more than 70% year-on-year. So that will be our strong growth, there are so that's the definitely as I said a smart vertical. So it will be the third -- we will drive the growth.
+
+Unidentified Analyst
+
+Thank you. My second question is regarding the mobile business. We can see this business turn profit in the quarter and I want to know how do we see the profitability in the next few quarters and with more Chinese brands are growing overseas how do we see the competition in the overseas market like in the Latin America or Europe and other markets? Thank you.
+
+Yang Yuanqing
+
+So Gianfranco would you like to do to answer the question.
+
+Gianfranco Lanci
+
+No. Yes but first of all mobile business I think is back to profitability already since few quarters. I think we have seen some impact on the profitability just during the last two or three quarters due to the pandemic and due to the demand coming from the impact, with the impact that coming from COVID-19 but if you look at the last six quarters I would say we were already back to profitability before pandemic and then of course we have seen some impact during the pandemic and now we are back to profit and I think that even if I look at the next few quarters I think we will continue to deliver a good profitability. Because the business is back to growth in the U.S., it's back to growth very almost 80%- 85% in Europe where we see really very, very good opportunity to further endeavor of Europe with good connection and good relationship with most of the operators in Europe but it's also back to growth in Asia talking about India or other countries in Asia-Pacific.
+
+And so I think we will see growth in terms of revenue but also we will continue to deliver a good profitability like this quarter. The only question mark also on mobile is again supplied with the same model as the same provider we see it on PC, IC and display. What was the other question? One it was yes the Chinese competition but frankly speaking we have seen Chinese brand competition in Europe but despite the Chinese brand competition in Europe we continue to see we have 85% revenue growth and we continue to see a big opportunity. In Latin America we continue to be number two and I would say compared to one, two, three, four, five quarters ago in terms of competition landscape we really don't see a major difference or a big difference. Some of the Chinese brand coming some other less aggressive than before but I would say the overall landscape is the same.
+
+There are also some other brands that are they just announced to leave the market and it's going to be another very good opportunity in both U.S. and Europe in terms of growing potential. Thank you.
+
+Wai Ming
+
+Thank you Gianfranco and thank you Yuanqing. We are running out of time to take more questions. Thank you very much for joining today's call. If you have further questions feel free to contact the IR team directly. The replay of this webcast will be available in the next couple of hours on our investor relations website. Thank you again for joining us. Thank you everyone. Bye now.
+
+Yang Yuanqing
+
+Yes. Bye. Bye.
+
+Operator
+
+Ladies and gentlemen this does conclude today's conference call. Thank you for participating. You may now disconnect.

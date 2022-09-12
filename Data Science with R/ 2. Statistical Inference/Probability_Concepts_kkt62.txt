@@ -1,0 +1,38 @@
+
+1) Random experiements - Where outcome cannot be predicted with certainity for example tossing a coin (may get head or tail)
+
+2) Sample space - possible set of outcomes - for tossing a coin {H,T}, roll a die {1,2,3,4,5,6}
+
+3) Event - set of outcome of an experiment - getting a tail when tossing a coin = 1/2
+
+Event are of two types 
+
+1) Disjoint events - do not have any common outcomes for example rolling a die and tossing a coin P(A and B) = 0
+
+2) Non disjoint events - can have common outcomes for example students studing statistics as well as data science P(A and B) # 0
+
+Independent events - Occurence of one doesn't affect the other for example tossing of a coin two times, outcomes may or may not be similar
+
+Introduction of Bayes theorem (conditional probability)
+
+What is the probability given the below statistics that woman has breast cancer if she has a positive mammograph results..
+
+1) One percent of women over 50 age have breast cancer
+2) 90% of the women who have breast cancer test comes positive on mammograph
+3) 8% of the women will have false positive (predictive positive for breast cancer although women didn't had that)
+
+P(breast cancer|positive on test) = ?
+P(breast cancer) = 0.01
+P(no breast cancer) = 1-0.01 = 0.99
+P(test positive|breast cancer) = 0.90
+p(test positive|no breast cancer) = 0.08
+
+P(breast cancer|positive on test) = P(positive on test|breast cancer) * P (breast cancer)
+                                      -----------------------------------------------------------------------------------------------------------------
+                                    P(positive on test|breast cancer)*P (breast cancer) + P(positive on test|no breast cancer)* P (no breast cancer)
+
+
+
+
+
+

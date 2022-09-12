@@ -1,0 +1,368 @@
+Good afternoon, and welcome to the Fiscal Year 2022 Third Quarter Results Conference Call for Dell Technologies Inc.
+I'd like to inform all participants this call is being recorded at the request of Dell Technologies. This broadcast is the copyrighted property of Dell Technologies Inc. Any rebroadcast of this information in whole or part without the prior written permission of Dell Technologies is prohibited. Following prepared remarks, we will conduct a question-and-answer session. [Operator Instructions]
+I'd like to turn the call over to Rob Williams, Head of Investor Relations. Mr. Williams, you may begin.
+Rob Williams
+Thanks, Jemaira, and thanks, everyone, for joining us. With me today are Jeff Clarke, Chuck Whitten, Tom Sweet and Tyler Johnson. Our press release, financial tables, web deck, prepared remarks and additional materials are available on our IR website. The guidance section will be covered on today's call.
+During this call, unless we otherwise indicate, all references to financial measures refer to non-GAAP financial measures, including non-GAAP revenue, gross margin, operating expenses, operating income, net income, earnings per share, EBITDA, adjusted EBITDA, adjusted free cash flow as well as an estimated non-GAAP revenue, operating income and EPS from continuing operations.
+A reconciliation of these measures to their most directly comparable GAAP measures can be found in our web deck and press release. Also note that all growth percentages refer to year-over-year change unless otherwise specified.
+Certain items contained in our earnings materials are presented on a continuing operations basis, giving effect to the VMware spinoff. These amounts represent management's current estimate of continuing operations' financial results. Final amounts presented on a continuing operations basis will be provided in our Form 10-K for fiscal 2022 and subsequent Form 10-Q filings. Amounts are subject to change with no obligation to reconcile these estimates.
+Additionally, I'd like to remind you that all statements made during this call that relate to future results and events are forward-looking statements based on current expectations. Actual results and events could differ materially from those projected due to a number of risks and uncertainties, which are discussed in our web deck and SEC filings. We assume no obligation to update our forward-looking statements.
+Now, I'd like to turn it over to Chuck.
+Chuck Whitten
+Thanks, Rob, and hi, everyone. Thanks for joining us today. We're three quarters into what will prove to be a historic year for Dell. As Michael said at our September Analyst Meeting, we're just beginning to write the next chapter of the Dell Technologies story. During that meeting and with industry analysts at our annual Dell Technologies Summit in October, we shared our view on the IT industry, our strategy going forward and our view on long-term value creation. We'd emphasized four key points from those sessions.
+First, we are uniquely positioned in the data and multi-cloud era with durable advantages, market-leading positions and the financial flexibility to drive sustained profitable growth.
+Second, our ISG and CSG core businesses are attractive. They sit in large markets estimated at $670 billion in TAM and are projected to grow in the low single digits over the next few years. We have ample headroom for growth, a track record of gaining share and are pursuing a differentiated strategy to consolidate and modernize our core business, including through our APEX-branded as-a-service solutions.
+In CSG, our differentiation comes from our unique direct sales motion and strategic channel program. Our focus on the most stable and premium parts of the PC market and our strong attach motion, which captures the value around the device as customers seek exceptional experiences and improved productivity by buying more software and peripherals.
+And for ISG, our leadership positions give us a unique ability to solve customer problems as data proliferates and infrastructure becomes more distributed, hybrid and software-driven, where you're number one in x86 in mainstream server revenue and we are also number one in all external storage categories with the most extensive and diverse storage portfolio in the industry.
+Our storage business addresses each segment of the market with a differentiated architecture optimized for workload needs. And of course, our alliance with VMware is unique in the industry. We've honed a first and best technical and commercial motion that enables faster time to market and differentiated jointly engineered solutions.
+The third point we'd highlight is the attractive new growth opportunities that surround our business, $650 billion in additional market opportunity growing at an 8% CAGR through 2024. These are markets where we have a unique right to win and are driving real innovation today, markets like telco and edge, to name just two examples.
+And lastly, we are firmly committed to creating shareholder value with an attractive long-term financial framework, balanced capital allocation strategy and track record of delivering consistent results in any environment. Our year-to-date and Q3 financial results, along with our steady strategic progress, offer compelling proof of these points and our long-term strategy.
+Let's start with our core markets and execution. Demand for our solutions remains strong as global economic recovery and widespread digital transformation reset IT demand to higher levels. Against that backdrop and despite the difficult supply environment, we again delivered great performance in Q3, with strong growth in all three business units, all regions and broad strength across our commercial PC, server and notably, most of our storage portfolio. We gained share in servers, storage and PCs, according to the latest reported IDC results.
+As we look forward, all signposts point to continued strong market demand, and we intend to continue winning in the consolidation and gaining share over the long term. Our strategy is not just to win in the consolidation but also to modernize our business, and our APEX-branded solutions are important to that future. Though it is still early days, we're pleased with our technical progress and the momentum across our family of as-a-service offerings, which will continue to expand going forward.
+For example, in October, we announced APEX Cloud Services with VMware Cloud, a terrific example of our first and best alliance with VMware, that solution gives organizations the ability to move workloads across multiple cloud environments and scale resources quickly with predictable pricing and transparent costs.
+
+Turning to our growth engines. As I said, edge and telecom are two perfect examples of the types of markets we are looking to disrupt, and we delivered a steady stream of innovation in these spaces in Q3. For the edge, we introduced VxRail satellite nodes and updates to our streaming data platform. For telecom, we introduced new bare metal orchestrator software, multiple reference architectures to accelerate ORAN and edge deployments and a new service offering called Respond and Restore for Telecom.
+
+We're encouraged by our ability to simultaneously deliver in our core while driving innovation in new growth markets. And we will continue to pursue adjacent growth to our market positions, customer relationships, and durable competitive advantages give us a unique right to solve customer problems in the data and multi-cloud era.
+
+Let me conclude with our commitment to long-term shareholder value. Since the September meeting, we have hit a few major milestones in our efforts to simplify our corporate structure and create financial flexibility to drive future growth. We completed the transaction to spin off VMware, and we closed the Boomi divestiture, each resulting in a more simplified corporate structure. In addition, we have returned to an investment-grade corporate rating, which opens up the opportunity for a more balanced capital allocation strategy.
+
+To sum up, we remain confident that our market positions, articulated strategy, durable competitive advantages, commitment to disciplined capital allocation and importantly, our culture and track record of execution are great for customers and our team members and create an attractive near- and long-term opportunity for shareholders. Q3 was a great example of these winning elements coming together, and we're just getting started.
+
+With that, let me now turn it over to Jeff.
+
+Jeff Clarke
+
+Thanks, Chuck, and hello, everyone. I started off last quarter's call by saying in this incredibly unpredictable environment, we delivered our best second quarter ever. We now have delivered our best third quarter ever and we are on track for an historic year.
+
+The constant through all the change over the past 18 months is the unprecedented demand for technology. It is clear, technology is more essential today than ever before. We are clearly winning in the core and this keeps us at the center of our customers' IT and digital agendas. Three quarters into our fiscal year, Dell Technologies has seen a record revenue of $79 billion, up 16%, along with record operating income of $8.4 billion, up 12%.
+
+For the third quarter, we delivered 21% of revenue growth as we saw broad-based growth across our business. Similar to last quarter, demand remains ahead of revenue growth as we continue to navigate industry-wide supply constraints driven primarily by integrated circuits. We shipped a record number of products globally in Q3 and have leveraged our strengths: a multi-decade operational excellence, product design flexibility, coupled with less complexity and our direct model with its high-quality demand signal and ability to shape demand.
+
+We are also delivering on our commitment to innovation. We launched a number of new offerings during the quarter. Out of our growing telecom business, we introduced bare metal orchestration software to give cloud service providers a flexible and cost-effective way to deploy and operate their open cloud-native network infrastructure. In storage, we announced network attached storage software and hardware innovation for power scale, providing organizations with more flexible consumption, management, protection and cybersecurity capabilities.
+
+Additionally, we launched the industry's first end-to-end NVMe TCP SAN solution, featuring smart fabric storage software, which provides the intelligence for automated storage connectivity at scale. And in client, we are pairing Windows 11 with our Dell Optimizer built-in intelligence to deliver the most personalized productive computing experience on the world's most intelligent business PCs.
+
+We believe the introduction of Windows 11 will continue to drive demand in PCs. Lastly, as Chuck mentioned, our first and best partnership with VMware continued to demonstrate our joint ability to deliver differentiated offers with the announcement of APEX Cloud Services with VMware Cloud at VMworld. It's multi-cloud done right.
+
+Turning to our segment results. Our Infrastructure Solutions Group continue to see positive momentum as enterprise IT spending rebounded and our multiyear investments in the portfolio took hold. ISG delivered revenue growth of 5% to $8.4 billion, which was our third consecutive quarter of year-over-year growth. Customers across all regions are investing in IT infrastructure focused on multi-cloud solutions and accelerating digital transformation. This investment is driving very strong demand for compute and storage. Operating income was $892 million or 10.6% of revenue.
+
+Server and networking revenue was $4.5 billion, up 9%, our fourth consecutive quarter of growth. Both server and networking demand were exceptionally strong and ahead of revenue growth throughout the quarter. Our 15G server ramp accelerated over the quarter and we continue to see positive momentum in high-value workloads.
+
+We are pleased with our storage performance in Q3, where we saw storage return to growth with revenue up 1% to $3.9 billion. Our overall storage demand was strong, driven by orders growth of 47% for hyperconverged infrastructure, 26% for data protection and 18% for mid-range storage. Momentum in our mid-range storage business continues to be led by PowerStore, CRN's 2021 Innovator Award for mid-range storage where 23% of PowerStore customers renewed to Dell storage and 28% were repeat buyers. PowerStore is the fastest-ramping storage product in our history.
+
+Dell continued to lead the transition to software-defined data center this quarter with customers leveraging the power of VxRail and PowerFlex as the foundation of their multi-cloud strategy. For example, Lowe's is bringing more power and resiliency to the edge, deploying VxRail to handle IT demands in each of its more than 2,200 home improvement and hardware stores in the United States and Canada, helping the Company deliver new capabilities and services that allow its employees to better serve customers during this holiday season and beyond.
+
+Turning to CSG. We had another record quarter, driven by the global economic recovery and the new distributed work environment requiring modern devices and advanced productivity solutions. CSG delivered revenue of $16.5 billion, which was up 35%, driven by strong demand across the board: commercial and consumer, notebooks and desktops and across all regions. Commercial revenue was a record at $12.3 billion in Q3, up an unprecedented 40%. We have reached record commercial revenue for each of the last three fiscal years and are on track for another strong year.
+
+Consumer revenue was a record at $4.3 billion, up 21% driven by strong growth in notebooks as well as premium and gaming desktops. Our team did a good job navigating the inflationary component cost and logistics environment, resulting in a record CSG operating income of $1.1 billion, up 14% and 6.9% of revenue. Our long-term focus on higher-value and stable segments of the client market is what helps drive our consistent results. Approximately 80% of the industry's revenue and nearly all of the industry's revenue growth has come from commercial PCs and premium consumer PCs, and that is where we are focused.
+
+We are driving profitable share gains over the long term, especially in commercial client, where we've gained nearly 400 basis points of share for calendar Q3 according to IDC. For total client, we gained more than 300 basis points of share in calendar Q3, outgrowing the next four PC vendors combined. In addition, we believe our leading share position in displays further expanded during calendar Q3 based on preliminary IDC data. We'll continue to leverage our strong attach motion to capture our share of the opportunity in the broader PC ecosystem.
+
+Our client business has delivered dependable and consistent growth throughout multiple cycles, and we believe trends will remain healthy, given businesses around the world are increasingly digitizing and utilizing technology to increase productivity and drive innovation.
+
+To close, we are focused on driving consistent growth in our core businesses, where we build customer trust and create insights that power innovation and we are expanding into new growth businesses where we have a unique right to win. With our durable advantages like our broad customer reach, world-class supply chain and modern services delivery network, I believe we are well positioned to win today and into the future.
+
+Now let me turn the call over to Tom.
+
+Tom Sweet
+
+Thanks, Jeff. The digital trends and real-time decision-making at the edge are tailwinds for our Infrastructure business, and we continue to see differentiated opportunities in how we target and execute within the PC space. These trends, along with our strategy and durable advantages, lead us to be optimistic about our long-term growth prospects.
+
+We continue to deliver strong results through any environment, and the third quarter was another example of this performance stability. We drove strong growth in revenue and delivered solid profitability growth despite some challenging dynamics. For the third quarter, we saw a record revenue of $28.4 billion, up 21%, driven by growth in all three business units, led by another record quarter for CSG and continued growth in ISG.
+
+I was pleased to see the improved demand growth in storage, although it did not all flow to the P&L, given timing and deferrals. Gross margin was $8.4 billion, up 8% and was 29.6% of revenue. Gross margin as a percentage of revenue was 340 basis points lower, primarily due to a revenue mix shift to CSG along with an inflationary cost environment.
+
+As we told you on last quarter's call, component cost would be a headwind in Q3, particularly impacting our elevated units in backlog. We took various actions around pricing and configurations as we navigated through the quarter because of the higher cost. In general, as we've discussed in the past, we will realize a portion of the benefit of these price increases in the quarter in which we take the pricing actions as well as in future quarters.
+
+Operating expense was $5.5 billion, up 10% as we invest for long-term growth. And our variable costs such as sales compensation and bonus are running ahead of prior year levels, given our strong performance. As always, we will prudently manage our spending and expenses even as we continue to invest in the business.
+
+Operating income was a third quarter record at $2.9 billion, up 5% and 10.1% of revenue. A decline in interest expense due to our reduced debt balances and a decline in our effective tax rate contributed to the 18% growth of consolidated net income to $2 billion and 17% growth in diluted earnings per share to $2.37.
+
+Adjusted EBITDA was $3.4 billion, up 6% at 12% of revenue, and for the trailing 12 months, adjusted EBITDA was $13.8 billion, up 14%. Our recurring revenue is approximately $6 billion a quarter, up 13%. Our remaining performance obligations, or RPO, is approximately $47 billion, up 26% and includes deferred revenue plus committed contract value not included in deferred revenue.
+
+Excluding VMware, Dell's RPO is approximately $36 billion, up 32% and up 3% sequentially. The sequential growth was driven by an expanded ISG backlog. Dell Financial Service originations in Q3 were $2 billion, down 7%, given a number of customers who have opted to use cash to fund their technology purchases. DFS ended the quarter with $12.6 billion in total managed assets, flat year-over-year.
+
+Now turning to our balance sheet and capital structure, which excluding DFS debt, is now fully unsecured. Our cash flow continues to be strong and, as promised, we have repaid substantial debt and delevered the balance sheet. As of today, we have paid down approximately 1/3 of our debt balance from the end of the last fiscal year, and we have paid down $15.9 billion of core and margin loan debt. We are now solidly an investment-grade company, having received upgrades from all three of the major credit rating agencies.
+
+For the third quarter, cash flow from operations was $3.3 billion, up 9%, and excluding VMware, it was $2.2 billion. On a trailing 12-month basis, cash flow from operations was $13.1 billion, up 45%, and excluding VMware, it was $8.5 billion, up 76%. I'm happy with how we've managed our working capital although we did see higher inventory levels, given the supply chain dynamics and component availability. We expect inventory balances to come down as the supply chain situation improves over the next year.
+
+Cash and investments ended the quarter at $24.2 billion and approximately $11.5 billion up for Dell, excluding VMware. Finally, as of last Friday, November 19, we have repurchased approximately 2 million shares. Our intent is to continue buying shares going forward programmatically as we manage dilution and opportunistically return capital to shareholders.
+
+Before I talk to our outlook, I'd like to provide a view of our third quarter financial results on a continuing operations basis, which is how prior periods will be recast beginning in the fourth quarter. As explained in Appendix C of our web deck, we currently estimate Q3 revenue from continuing operations was $26.5 billion, operating income was $2 billion and diluted earnings per share was $1.69.
+
+It's important to note that our continuing operations financials differ from the pro forma financials we released to date, particularly in the treatment of interest and other in a diluted share count. Please refer to Appendix C of our web deck for further details.
+
+Now to our outlook. The macroeconomic environment is healthy across multiple sectors, including IT. Our demand velocity reflects that businesses continue to prioritize their digital transformations to help meet customer needs and improve productivity. Semiconductor shortages, supply chain challenges, heightened logistics costs as well as inflationary input costs are common themes across the economy. We'll leverage our durable competitive advantages to adapt and deliver consistent, predictable results over time.
+
+I'll provide more guidance this quarter than is typical to help facilitate our reporting transition to a post-VMware spin basis. As a reminder, our fourth quarter financial results will include VMware reseller revenue. For Q4, on a continuing operations basis, we expect revenue in the range of $27 billion to $28 billion, which implies a 12% to 16% growth.
+
+We expect GAAP operating income between $1.65 billion and $1.75 billion and non-GAAP operating income between $2.25 billion and $2.35 billion, which is in line with historical trends. Operating income margin will be up sequentially given Q4 is a seasonally strong storage quarter. We expect a continued net inflationary environment and estimate a modest increase in OpEx as we invest alongside our strong top line growth.
+
+Below the operating income line, you should assume 17%, plus or minus 100 basis points, for non-GAAP tax rate and diluted shares in the range of 810 million to 820 million. Additionally, we will benefit from lower interest expense, given the debt reduction we discussed. We expect diluted GAAP earnings per share between $0.97 and $1.16 and non-GAAP diluted earnings per share between $1.85 and $2.05.
+
+I'll provide guidance for fiscal '23 on our Q4 earnings call. However, I'd reiterate that we expect to see growth in both our CSG and ISG businesses. We expect revenue growth and EPS growth to be consistent with our long-range financial framework, which we discussed during our Analyst Meeting in September.
+
+In closing, a quick reminder. ESG remains an important focus for Dell Technologies, and we have a long legacy of engagement with investors. ESG marries our corporate purpose and commitment to value creation to help move societal and business progress forward together. You can find more details on Slide 19 of the web deck.
+
+As I look forward, I'm confident in our ability to deliver consistent and predictable financial performance across any economic or IT spending cycle. With our track record of strong operational and strategic execution and our durable competitive advantages, I'm optimistic about the long-term growth prospects for Dell.
+
+We are focused on executing our strategy to consolidate and modernize the core and build new growth businesses that enable the multi-cloud future, along with delivering an attractive long-term financial model of 3% to 4% revenue growth and 6% or better diluted earnings per share growth.
+
+With that, I'll turn it back to Rob to begin Q&A.
+
+Rob Williams
+
+Thanks, Tom. Let's get to Q&A. [Operator Instructions] Jamaria, can you please introduce the first question?
+
+Question-and-Answer Session
+
+Operator
+
+We'll take our first question from Toni Sacconaghi with Bernstein.
+
+Toni Sacconaghi
+
+Yes, thank you for taking the question. I was wondering if you could comment a little bit on the dynamics for operating margins in ISG. They were down 90 basis points sequentially and 40 basis points year-over-year despite improving volumes. And whether you could comment on sort of order growth relative to revenue growth for both storage and for servers and networking? Thank you.
+
+Tom Sweet
+
+Toni, it's Tom. Let me sort of take you through how we thought about it and what we're seeing. So from an op margin perspective related to ISG, you correctly highlighted that we're down quarter-on-quarter about 90 basis points from 11.5 to 10.6. I would remind all of you and remind you, Toni, that last quarter, we talked about the increased component cost that would impact us in Q3.
+
+And we clearly saw that as we highlighted that, we thought my overall operating margin guidance or operating income guidance last quarter was to be 1% to 2% sequentially, and I think we ultimately came out at 2% this quarter. We did have headwinds with component costs, particularly in the server space.
+
+And particularly with the -- as I mentioned again last quarter, with the backlog that was sitting -- the units sitting in backlog at the [indiscernible] which while we did try to adjust prices on some of those units, we did have some negative or some headwinds, I would say, on those shipments as they went out. So that was the principal drag on operating margin in ISG.
+
+From an orders growth, we don't really get into demand conversations here, but I would tell you that we saw healthy demand growth in both servers and in storage. Really pleased with what velocity of those two particular lines of business, which is why I highlighted in the RPO that the backlog dynamic that RPO expanded because of the backlog dynamic principally in ISG. So pleased with the velocity and pleased with the overall environment as we see the demand environment as we move forward.
+
+Operator
+
+We'll take our next question from Katy Huberty with Morgan Stanley.
+
+Katy Huberty
+
+Yes. Thank you. I wanted to follow up on ISG because Tom, as you said, you made notable comments about ISG backlog growing and also strong storage demand not necessarily converting to the P&L in the quarter. Can you just talk about the shape of demand linearity, why some of that revenue was pushed? And how you see it flowing through in the January quarter, particularly as it relates to whether we should expect an acceleration in storage revenue growth?
+
+Tom Sweet
+
+Yes. Look, Katy, as it relates to storage demand, I think we've talked about in the past that the storage demand tends to be more back-end loaded in the quarter, and we clearly saw that again this quarter, perhaps a bit more than in prior quarters. And as a result of that, we were not able to convert that backlog to revenue. So much are -- much of that order demand are revenue, I should say. So that was clearly a headwind.
+
+Also remember that within my storage solutions that I'm selling, I've got a high degree of software and services that usually get wrapped up into multiyear arrangements that result in it being deferred to the balance sheet. So I've got -- which I think is a good thing, by the way, so I don't want to say that's a negative because ultimately, that gives us a revenue stream in the future.
+
+But what -- so that was the principal headwind that we saw, both we built backlog in storage as a result of the linearity, and we also deferred a fair amount of revenue to the balance sheet, just given the service attach rate as well as the software content within the storage.
+
+Chuck Whitten
+
+Maybe, Tom, to add a little bit to that. We're encouraged by storage orders growth because in the most strategic category, software defined storage, we grew 47%, mid-range orders grew 18%, which is now the fourth consecutive quarter our mid-range business has grown. That's on top of taking share in the last third quarter in midrange in Q2. Data protection grew, unstructured data grew and our entry-level orders grew as well in the storage business, so Katy, we remain encouraged by the orders growth. We have the conversion that Tom walked through that we have to continue to work on, but the demand environment in Q3, we're pleased with.
+
+Tom Sweet
+
+Yes. And Katy, I should answer, I guess, the second half of your question, which is around, as you think about what's the implication for Q4 revenue. Look, I think the reality is, as we highlighted in the talk track that we're continuing to face supply chain challenges. And so how much of server demand gets converted or backlog gets converted into shippable revenue is something that the teams are working every day.
+
+We have long-standing relationships with our supply chain. But it is a pretty dynamic environment and semiconductors continue to be a challenge, particularly for NIC cards and cards for us. So I think that's going to be one of the things that we're going to have to work our way through as we go through the quarter in terms of how much headwind of supply chain give us. Jeff, I don't know if you'd add anything to that.
+
+Jeff Clarke
+
+I think well said.
+
+Operator
+
+We'll take our next question from Wamsi Mohan with Bank of America.
+
+Wamsi Mohan
+
+Yes. Thank you. I know you typically don't give free cash flow guide, but in the spirit of giving more color on guidance. Can you talk about cash flow that you're expecting to generate from now here in fiscal 4Q? And how should we expect that to track relative to net income next year? You noted growth in both CSG and ISG next fiscal year with the long-term framework. Should we be thinking of applying that to free cash flow as well? Thank you.
+
+Tyler Johnson
+
+Hey, Wamsi, it's Tyler. So like you said, we don't typically have guidance on Q4. But I would say, look, Q4 tends to be a strong cash flow quarter for us, and I'm expecting those same trends, so looking for a good cash flow quarter. As I look into next year, look, we've talked about the relationship between net income in excess of 100%, and I expect that to continue to hold.
+
+Tom Sweet
+
+Yes, and that's adjusted free cash flow.
+
+Tyler Johnson
+
+Adjusted free cash flow, yes, that's right.
+
+Operator
+
+We'll take our next question from Amit Daryanani from Evercore.
+
+Amit Daryanani
+
+Thanks for taking my question. I guess, maybe a question on the CSG side. Your ability to think accelerate CSG growth despite compares getting difficult is fairly impressive. So I'm wondering if you can just talk about what are some of the drivers that's driving this outperformance. And how should we think about the durability of the CSG growth as you go forward because you compare that, you get more and more difficult, I think, through the next few quarters now. And related to CSG, maybe the margin discussion you had on ISG, could you just talk about margin performance in CSG, better volumes than, I think, sequentially and year-over-year margins have slowed down?
+
+Jeff Clarke
+
+Okay, Wamsi, this is Jeff. That's a lot of questions in there, at least if I can work my way through them. What we're seeing and why we're encouraged about the demand environment that we've called out and you see it in our performance is our focus being in commercial PCs, premium consumer, gaming and professional workstations, that's where the demand is. That's our strength. That's been our focus.
+
+And when we think about the trends that are underway, the do-from-anywhere, work-from-home, learn-from-home, buy-from-home, game-from-home, entertain-from-home, the change in the usage pattern of hybrid workers, what we think is now a reentry of workers back into the office, the addition of Windows 11 and the ability now to move to more mobile platforms and an aged installed base all set up for the demand environment we're seeing today, we believe, continues into next year.
+
+So we're encouraged by where the growth is in the marketplace. The areas that certainly have been challenged on the consumer side or the chrome side, we don't have great exposure to. We have exposure to where the growth is. Our execution and I think what is differentiating us today is the fact that we have a differentiated model. We're encountering the same supply chain challenges, the same integrated circuit semiconductor problems that Tom mentioned earlier that everybody else is.
+
+What's different is our Dell Direct model, our ability to really understand the pure demand signals from our customers and then equally translate that quickly into our supply base into the demand plan that we go build to. We're able to shape demand. We built an R&D engine that is really optimized to be able to be aligned to our direct way of selling. Translation, we have fewer SKUs, less complexity.
+
+We have a design methodology that has interchangeability and leverage and reuse. That gives us tremendous flexibility where components are and being able to do, for example, fast pen calls or pen-to-pen calls and changing out of components. If the Dell model, all the way from its demand engine to how we market to how we shape demand, put that demand signal into the supply chain, the product model that goes with it and then a responsive supply chain that's pretty darn quick.
+
+I mean, what I like about our supply chain is we've digitized it over the years. We're now able to do scenario planning and simulations. That simulation allows us to make quicker decisions. In this time and day, quick decisions equal execution. And then you couple that with partnerships that we've built over the past three decades by the leaders that are currently in our organization that go multiple levels down, I think that's a distinguishing characteristic of our performance and our differentiated model today. Does that help?
+
+Tom Sweet
+
+Hey, Amit, I might add on your operating margin comment.
+
+Rob Williams
+
+Wamsi was on it.
+
+Tom Sweet
+
+Amit, my mistake. Thanks for remind me. You are correct, right. Year-over-year, CSG is down roughly 130 basis points on an op margin. I would tell you the phenomenon I just highlighted in server has played out in client as well in the sense of, again, remember that we stepped in from Q2 into Q3 with the most significant component of cost increases in the history of the Company that we've ever seen.
+
+And as a result of that, we also -- obviously, with elevated backlogs, working our way through the backlog that was priced at component cost frameworks that perhaps didn't fully reflect the amount of cost increases that were coming through was a challenge that we had to work our way through as we went through the quarter. So that was probably the principal reason you see the 130 basis points design our margin differential.
+
+There is some mix dynamics in there as well. And I would recall -- if you would recall back to Q3 a year ago where you saw consumer demand quite high, chrome demand very high, which actually drove actually pretty better profit margins than typical. So, there were some profit margin mix dynamics in there as well that have subsided as we go into -- as we look forward a year -- from a year ago.
+
+Operator
+
+We'll take our next question from Shannon Cross with Cross Research.
+
+Shannon Cross
+
+Thank you very much. I wanted to ask about Project APEX. I realize it's pretty early, but I'm wondering if you can maybe give some more details on what you're hearing from customers, how we should think about growth in Project APEX then benefiting the $6 billion, I think, you're now running in terms of recurring revenue. If there's anything we should either not include as we think about growth there and then what runs through your recurring line, or just anything because I'm sure everybody is going to be starting to focus on some of these numbers going forward.
+
+Chuck Whitten
+
+Thanks, Shannon. It's Chuck. I'm going to start on that and then we'll layer in. Look, as we've called out, our immediate focus in FY '22 has been centered on engaging customers and ensuring that our APEX offers are resonating in the marketplace and that we are making progress against our multiyear plans to broaden our APEX portfolio of offers.
+
+So while I won't quote specific numbers to your question on customer feedback, first and foremost, what I would say is interest in APEX continues to accelerate, and our pipeline continues to build across the family of offers. And the customer feedback has been good. They're drawn to the simplicity of engaging through our console, the flexibility to adjust based on their needs and the value, obviously, of only paying for what they use.
+
+The second thing I would call out is we continue to make good progress in broadening the portfolio, as we called out in our remarks today. We were excited to announce the APEX Cloud Services with VMware Cloud, which is available next year. That's another great proof point of our joint engineering with VMware.
+
+So we feel like we're making good progress on APEX. From a financial impact, look, as you said, we're still in very early innings, and we'll provide much more detailed commentary and guidance when it's appropriate. But in the meantime, we're focused on customers and delivering against the technical road maps, as I said.
+
+Operator
+
+We'll take our next question from Rod Hall with Goldman Sachs.
+
+Rod Hall
+
+Yes, thanks for fitting in guys. I just have a couple of -- well, one question really and an expansion on that. But I wanted to check, Tom. You said you had really high backlog, I think very high backlog on CSG due to commercial orders last quarter. And I'm wondering if you work through any of that backlog this quarter, did it remain as high as it is? And then kind of the other flip side of that is, what's the visibility now in that CSG and particularly commercial order volume? Can you see out just February, how far out can you see? Thank you.
+
+Tom Sweet
+
+Rod, I will tell you that we did work through some of the elevated backlog in CSG as we worked our way through the quarter. It is still elevated. And that continues to be a challenge for us as we think about component availability as we work our way through Q4. That was why we called out, within my talk track anyway, the fact that we saw ISG backlog expand in terms of the -- that elevated further.
+
+CSG, although I didn't explicitly say it, came down somewhat but still elevated. In terms of order visibility, look, I mean, it's hard to call but I mean, overall, the environment remains healthy. We're optimistic about the client space for the reasons Jeff just highlighted earlier. So -- and as that's reflected in the guidance that I provided for Q4. And also, I would remind you that we're also projecting growth for next year in CSG and in ISG.
+
+So I think overall, we feel good about the demand environment. It's going to continue to be challenging from a supply chain perspective, and it will be up to us to execute our way through that.
+
+Operator
+
+We'll take our next question from Steven Fox with Fox Advisors.
+
+Steven Fox
+
+Hi, good afternoon. I was just wondering off of all the comments around how you're managing through the current environment. If we think about the current quarter relative to seasonality and mix and then your ability to shape demand versus managed supply chain, can you give us a sense for how it's impacting sort of the implied margins and where you're getting better where it's sort of status quo versus what you've done in the last couple of quarters?
+
+Tom Sweet
+
+Yes. Steve, maybe I'll start and then Chuck and Jeff can jump in as appropriate. I mean, look, we're shaping demand, quite frankly, to the component availability that we have, recognizing that within the CSG space, we're shaping demand towards those areas of focus for us, which is commercial, high-end, consumer, gaming and the related peripheral environment around them. And so pricing is relatively benign or, I should say, stable in terms of the pricing environment. So it really comes down to can we get supply and ensure that we can deliver against our customer commitments there.
+
+And Jeff and team are doing a nice job every day of trying to fight their way through the component dynamics that are impacting us. So look, I feel good about our ability to shape demand, given the direct model, our ability to have the sales organization sell the configurations that we have. And in terms of how is that impacting profitability, I think that's a little bit harder to call. All I would tell you is that what we're trying to do is make sure we hit our customer commitments and that we're optimizing for our product, given the shortage in the industry that there is. So we are trying to make sure that our pricing is consistent with the conditions that exist.
+
+Jeff Clarke
+
+Yes. Tom, I would add, look, our flexibility to shape demand to the available supply, I think, is well understood and we do quite well. We priced what the -- for all of the known costs that we have coming into the system. We just went through our largest quarter-over-quarter cost increase that we have seen. The wildcard for us are the costs that we're continuing to work on is logistics. The logistics cost environment today is pretty challenging.
+
+Inbound freight, the next guided freight, the fact that we're expediting more things, we've shifted from less ocean to more air. That combination of things, making sure that we understand those input costs into our pricing models, I think, is clearly the challenge that we look to in Q4 and have to work our way through. But our component costs and component availability, I think it's well understood, we can shape. It's all I guess the dynamic for us to work through is really this logistics cost and the variability there.
+
+Operator
+
+We'll take our next question from Simon Leopold with Raymond James.
+
+Simon Leopold
+
+Thanks. Appreciate you take in the question. I imagine this may be a little bit tricky to answer, but I'm trying to get a better understanding of maybe a bridge for the gross margin in terms of the factors either sequentially or year-over-year, leading to the results when I think about the input costs, the product mix and your ability to move to higher ASPs. If we could maybe get some order of magnitude of what are the factors affecting your gross margin and how to think about that as we're modeling going forward, particularly in light of the VMware spin? Thank you.
+
+Tom Sweet
+
+Well, Simon, it's Tom. So we don't typically comment on gross margin at a business unit level. I would tell you at a top line level, as we think about dynamics, it's principally going to come down to how do we think about mix as it moves forward into Q4, which I would remind you that Q4 tends to be a higher storage quarter for us. So generally, gross margins improve Q3 to Q4.
+
+There is a seasonal pattern to storage as you move on to the next year. That's, I think, well understood at this point. I think as it relates to CSG, look, again, we're focused on the higher areas in terms of commercial, in terms of gaming, in terms of high-end consumer. Component costs are going to be the driver there for us, right, in the sense of how we think about the environment.
+
+We did highlight that we do expect Q4 component costs and logistics costs together are going to be inflationary, which -- so we have priced for that with what we know today. So the mix dynamic or the -- so the input costs are going to be a dynamic you've got to think your way through. So you got to think through your overall sort of what's that industry inflation/deflation look like as a -- we're not -- we don't quite mimic that dollar for dollar but it's probably a good bellwether for you.
+
+And then I missed server, but server is also going to be very much dependent upon component cost dynamics, right? And so you got to think your way through that. And then think through the mix dynamics. Q4 tends to be a higher ISG, higher storage quarter. We have some consumer impact in Q4, given the holiday season. You move into Q1, which tends to be our seasonally softest quarter as you come out of Q4, then it ramps again in Q2 with the higher volume coming through Q2 and then that seasonal pattern begins to repeat. So I think that's about the best guidance I can give you as you think your way through mix versus input cost dynamics.
+
+Operator
+
+We'll take our next question from Jim Suva with Citigroup.
+
+Jim Suva
+
+Thank you very much. It's well known a lot of component shortages are out there. Can you maybe help us get our arms around which ones are the most hardest to get now? Are they like power management integrated circuits? And what's the visibility that your suppliers are giving you for equilibrium for you to be able to catch up with demand? Thank you.
+
+Jeff Clarke
+
+Sure, Jim. I'll take that one. This is Jeff. Look, we see integrated circuit semiconductors remain constrained -- will remain constrained into next year. The trailing nodes are the most constrained, so anything in an 8-inch network is certainly challenged as well as the 12-inch 65-, 55- and 40-nanometer networks are certainly most challenged across the board. You have wafer shortages that go along with that. I think I mentioned in the last two calls, the back end, the assembly and test had been impacted by COVID. That's improved a little bit but still constrained. There's been a number of substrate shortages around the world that continue to impact this.
+
+And to answer your question specifically, we track 27 different categories of integrated circuits across our portfolio. I think I've mentioned the usual suspects, but I'll deal with them here. So anywhere from codecs to audio amplifiers, USB Type-C controllers, MOSFETs, Power ICs, sensor ICs, TPM, microcontrollers, driver ICs for our PC side; and then, on our enterprise side, Power ICs, BMC, TPM, FPGAs and MOSFETs.
+
+So power was one that you mentioned, absolutely power is front and center. We are encountering the same shortages as everybody else. I think our team is navigating it quite well, I think, and primarily driven by long-term partnerships. We've been doing this a long time. Again, the relationships that I have with our supply base go back from the very beginning of the time I was a developer here. I think that helps serves us well, doing this for three-plus decades and continuing to know the folks at these companies and knowing our long-term history and the fact that we talk about long-term design prospects as well. I hope that answers your question.
+
+Operator
+
+We'll take our next question from Aaron Rakers with Wells Fargo.
+
+Aaron Rakers
+
+Thanks for taking the question. And I won't ask about supply chain. What I wanted to ask about is just like as you guys have executed, it looks like nearly all of the $16 billion of debt reductions completed. Do we look into fiscal '23 and assume any incremental deleverage of the balance sheet? Or is the entirety of the capital return strategy focused on share repurchase at this point? And how do we think about, again, the bridge of free cash flow to adjusted free cash flow as we think about that targeted 40% to 60%
+
+Tom Sweet
+
+Aaron, it's Tom, and then maybe I'll have Tyler jump in here as well. As it relates to -- as we think about debt reduction as we work our way through fiscal '23, I would expect that there will be some continued debt reduction next year. Now clearly, we have cleaned up a lot of the near-term maturities, but we are still focused on a core leverage ratio target of 1.5. We're currently at 1.9. So, there will be some element of debt reduction next year, not -- obviously not clearly to the extent that it has been in the past.
+
+And I would remind you, as you think about our capital allocation framework, 40% to 60% of our adjusted free cash flow is going to go towards shareholder capital return to the form of what we believe to be dividends and if the Board approves those next year, our share buyback and then obviously, investment in the business and debt reduction. Tyler, you want to take the free cash flow conversion question?
+
+Tyler Johnson
+
+Yes. I mean, maybe Aaron, it's easier to take that one offline. I mean, the intent or purpose of that adjustment is to reflect the impact of DFS. There is a walk in the web deck, I believe, but happy to take that one offline.
+
+Operator
+
+We'll take our next question from Sidney Ho with Deutsche Bank.
+
+Sidney Ho
+
+Great. Thanks for taking my question. I have a question on the VMware resale revenue. If I do my math right, the revenue would be somewhere around $1 billion, maybe a little bit over $1 billion a quarter. But if I do the same math for operating margin, it doesn't seem like that business is that profitable. First, is that the right conclusion? Second, how should we think about this probability of this business going forward? And lastly, how do you plan on disclosing that revenue in the future? Thanks.
+
+Tom Sweet
+
+Sidney, it's Tom. So look, I would -- to help you guys think your way through it, I would think about Q4 VMware resale revenue somewhere in the range of $1.3 billion, okay? And you are right, as we have discussed a number of times in previous calls, the margin associated with that resale revenue is minimal, right? Now that's an area that we're focused on beginning to drive up, but it's never going to be -- as we look at it today anyway, it's got a ways to go to get to more distributor-like margins. But today, you should think about it as not really impacting or contributing in any meaningful way to operating margin performance. And so that's probably the easiest way to think about it for right now.
+
+Rob Williams
+
+Thanks for the question, Sidney. Let's take one more question and we'll wrap it up.
+
+Operator
+
+We'll now take our final question from David Vogt with UBS.
+
+David Vogt
+
+Great. Thanks guys for squeezing me in. So this is more of a longer-term question and I know you're not going to give guidance on the next fiscal year, but when I listen to you talk about the strength in the order book, whether it's in servers and storage and you're taking share and what we're seeing relatively at least from an industry perspective, a strong backdrop. When I think about next year from the ISG side, are we -- are you being a little bit conservative when you think about sort of the longer-term model in the context of what you're seeing near term and how that might drive revenue growth next year in ISG, maybe a little bit faster than 3% to 5% or at least at the higher end of that range?
+
+Tom Sweet
+
+Hey, David, look, I think the message I wanted to get out for purposes of people beginning to think your way through next year is that we expect growth. And we expect at a minimum that our revenue frameworks will be in the range of the long-term framework that we provided and that our profitability will be in the framework that we provided. And I don't want to go beyond that at this point other than to tell you that when we get through -- get to the Q4 earnings, that we'll clearly have a conversation about any further thinking around next year. So, I'll leave it at that.
+
+Rob Williams
+
+All right. Thanks, David. Thanks for giving us the opportunity to talk about the long term. We like that. And thanks for everyone for joining. We're going to be -- we will be participating in several conferences, investor conferences over the next couple of weeks, and we will be on the road on both the East and West Coast in early January. So we do look forward to engaging with the investor community at these events in the fourth quarter.
+
+With that, I thank you for joining us.
+
+Operator
+
+This concludes today's conference call. We appreciate your participation. You may disconnect at this time.

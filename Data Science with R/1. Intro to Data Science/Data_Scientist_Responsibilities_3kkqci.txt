@@ -1,0 +1,20 @@
+What can be possible challenges
+
+1) Isolated Datasets - C+/C++, SQL Oracle, Papers - no uniform structure
+2) No tools and technologies for big data - R/python, SAS
+3) Open source platforms - R/python
+4) Architecture - RAM/Hard disk
+
+Life of Data scientists
+
+1) Curiosity -> Translate messy problem into a business problem Why? Why? Why?
+2) Data Aquisition -> Different sources (Excel, website, Twitter)
+3) Data wrangling/exploration -> variable selection, transformation, visulalization
+
+4) Modelling ML -> Different type of models
+5) Check accuracy of models -> 6 different models for one use-case, >75%-90%
+
+6) Communication and Visualization
+7) Deployment of model in production environment -> use the same environment similar to production, JAVA+R 
+
+8) Continous feedback from production - feedback collection
